@@ -1,0 +1,17 @@
+com\ShopMan\dao\KhachHangDAO723.class
+com\ShopMan\dao\NVGiaoHangDAO723.class
+com\ShopMan\model\MatHang723.class
+com\ShopMan\dao\ThanhVienDAO723.class
+HoaDon723\HoaDon723.class
+com\ShopMan\JakartaRestConfiguration.class
+com\ShopMan\model\NVGiaoHang723.class
+com\ShopMan\dao\DAO723.class
+com\ShopMan\model\DonHang723.class
+com\ShopMan\model\KhachHang723.class
+com\ShopMan\dao\DonHangDAO723.class
+com\ShopMan\dao\HoaDonDAO723.class
+com\ShopMan\model\HoaDon723.class
+com\ShopMan\model\ThanhVien723.class
+com\ShopMan\model\GioHangItem723.class
+com\ShopMan\resources\JakartaEE10Resource.class
+com\ShopMan\dao\MatHangDAO723.class
