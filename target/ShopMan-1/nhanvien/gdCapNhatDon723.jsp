@@ -53,7 +53,7 @@
                     <label for="trangThaiDonHang">Trạng Thái Đơn Hàng:</label>
                     <select id="trangThaiDonHang" name="trangThaiDonHang">
                         <option value="Chưa duyệt" <%= donHang.getTrangThaiDonHang().equals("Chưa duyệt") ? "selected" : ""%>>Chưa duyệt</option>
-                        <option value="Đã duyệt" <%= donHang.getTrangThaiDonHang().equals("Đã duyệt") ? "selected" : ""%>>Đã duyệt</option>
+                        <option value="Đã duyệt" <%= donHang.getTrangThaiDonHang().equals("Đã xuất") ? "selected" : ""%>>Đã xuất</option>
                     </select>
                 </div>
                 <div class="form-group">
